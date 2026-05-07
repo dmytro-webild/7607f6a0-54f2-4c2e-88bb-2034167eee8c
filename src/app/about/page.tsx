@@ -106,7 +106,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/3d-retro-styled-wireframe-landscape-background_1048-18074.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/3d-retro-styled-wireframe-landscape-background_1048-18074.jpg?_wi=3"
       logoText="NEO-LUXE"
       columns={[
         {
