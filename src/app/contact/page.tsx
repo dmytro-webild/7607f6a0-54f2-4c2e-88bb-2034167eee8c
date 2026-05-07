@@ -73,7 +73,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-with-co-workers-blurred-background_1098-807.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/abstract-background-with-colorful-glowing-neon-lights-3d-rendering_181624-21209.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/abstract-background-with-colorful-glowing-neon-lights-3d-rendering_181624-21209.jpg?_wi=2",
           imageAlt: "Front view smiley woman looking at camera",
         },
       ]}
@@ -103,7 +103,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/3d-retro-styled-wireframe-landscape-background_1048-18074.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/3d-retro-styled-wireframe-landscape-background_1048-18074.jpg?_wi=4"
       logoText="NEO-LUXE"
       columns={[
         {
