@@ -2,7 +2,6 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
-import Link from "next/link";
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
 import TeamCardEleven from '@/components/sections/team/TeamCardEleven';
 import TestimonialCardFifteen from '@/components/sections/testimonial/TestimonialCardFifteen';
@@ -49,8 +48,7 @@ export default function ContactPage() {
                   {
                     id: "m2",                    title: "John T.",                    subtitle: "CTO",                    detail: "Building the tech.",                    imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-with-co-workers-blurred-background_1098-807.jpg"
                   }
-                ],
-                imageSrc: "http://img.b2bpic.net/free-photo/abstract-background-with-colorful-glowing-neon-lights-3d-rendering_181624-21209.jpg",                imageAlt: "Front view smiley woman looking at camera"
+                ]
               }
             ]}
           />
